@@ -5,9 +5,7 @@ What is a Barometer
 -----------------------
 A Barometer is an instrument used to measure the magnitude of air pressure in a certain environment or surrounding.
 
-  ![inital setup](../_static/Barometer3.jpg)
-
-Uses of Barometer
+ Uses of Barometer
 ------------------
 A barometer has widespread use in various physical sciences like physics, astronomy etc. Some of its uses are :
 1) Used to measure altitude
